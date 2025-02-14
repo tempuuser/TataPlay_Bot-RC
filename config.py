@@ -4,7 +4,7 @@ api_hash = "588a3ea6fd01ae88bd2e10fed7d55b2c"
 
 bot_token = "7784135648:AAFzRNk7paS0aH8UBknZ6mad6D0CTwnFIhs"
 
-GROUP_TAG = "RC"
+GROUP_TAG = "PBX1"
 
 sudo_users = [6052303737]
 
