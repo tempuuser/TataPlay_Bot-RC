@@ -116,10 +116,10 @@ def check_user(message):
         user_id = message.chat.id
     if user_id in sudo_users:
         return 'SUDO'
-    elif user_id == 5485818124:
+    elif user_id == 6052303737:
         return 'DEV'
     else:
-        text = "<b>Not a Authorized user </b>\nMade by RC"
+        text = "<b>Not a Authorized user </b>\nMade by PBX1"
         message.reply_text(text)
         return None
 
